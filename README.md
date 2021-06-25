@@ -1,2 +1,2 @@
 # Projetos
-Este repositório contém projetos desenvolvidos pelo usuário em linguagem de programação Python.
+Este repositório contém um programa que realiza uma Regressão Linear Simples.
